@@ -4,7 +4,7 @@ Hacked together by [Team Name]
 
 ## Introduction
 
-The goal of this project is to create frames that provide feedback on objects outside the user's peripheral vision, particularly targeted towards an audience with hearing impairments. This will help reduce anxiety by minimizing instances of being caught off guard. The frames will utilize two cameras for object recognition and depth mapping, enhancing the user's awareness of their surroundings.
+The goal of this project, inspired by the Byte Into Hardware Hackathon hosted at NJIT in Spring 2023, is to create frames that provide feedback on objects outside the user's peripheral vision, particularly targeted towards an audience with hearing impairments. This will help reduce anxiety by minimizing instances of being caught off guard. The frames will utilize two cameras for object recognition and depth mapping, enhancing the user's awareness of their surroundings.
 
 ## Indicator System
 

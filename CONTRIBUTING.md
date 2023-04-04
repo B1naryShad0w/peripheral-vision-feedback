@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing to [Project Name]! We welcome contributions from the open source community to help improve and expand the functionality of the project.
+Thank you for your interest in contributing to Frame View! We welcome contributions from the open source community to help improve and expand the functionality of the project.
 
 ## Ways to Contribute
 
@@ -18,4 +18,4 @@ Thank you for your interest in contributing to [Project Name]! We welcome contri
 - Be responsive to feedback and participate in the review process
 - Your pull request will be merged once it has been reviewed and approved by the project maintainers
 
-By contributing to [Project Name], you agree to license your contributions under the [Apache License 2.0](LICENSE).
+By contributing to Frame View, you agree to license your contributions under the [Apache License 2.0](LICENSE).

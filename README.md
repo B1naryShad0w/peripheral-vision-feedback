@@ -1,6 +1,6 @@
-# [Frame View]
+# Frame View
 
-Hacked together by [Team Name]
+Hacked together by Don Bonifacio, Shahnawaz Haque, Christopher Hausheer, Cris Llerena, Vishwam Shukla
 
 ## Introduction
 
@@ -12,7 +12,7 @@ The indicator system will consist of a light bar with multiple LEDs to create an
 
 ## Light Bar Placement
 
-The light bar will be placed on the top frame of the glasses to minimize twists in the filament.
+The light bar will consist of multiple Fiber optic filaments be placed on the top frame of the glasses in order to direct light in non distracting but noticeable fasion.
 
 ## Sensor
 
